@@ -1,0 +1,6 @@
+# This project relies entirely on the Python Standard Library.
+# No external dependencies are required to run the script.
+
+# Development and Linting dependencies (optional)
+pylint>=3.0.0
+ruff>=0.1.0
