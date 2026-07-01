@@ -20,7 +20,7 @@ A lightweight, robust, and zero-dependency Python script that automatically orga
 Clone this repository or download the source files directly:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/botoningtor/smart-file-sorter
 cd smart-file-sorter
 ```
 
